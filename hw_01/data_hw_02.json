@@ -1,0 +1,254 @@
+{
+  "_embedded": {
+    "sort": "",
+    "items": [
+      {
+        "name": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+        "exif": {},
+        "created": "2020-11-24T10:13:57+00:00",
+        "resource_id": "17913919:9b6b1c632729a1ad80da4c0dfeb27b50e7c8dfa9c4edc389c2dc92600e29a6ed",
+        "modified": "2021-09-30T08:58:39+00:00",
+        "path": "disk:/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+        "comment_ids": {
+          "private_resource": "17913919:9b6b1c632729a1ad80da4c0dfeb27b50e7c8dfa9c4edc389c2dc92600e29a6ed",
+          "public_resource": "17913919:9b6b1c632729a1ad80da4c0dfeb27b50e7c8dfa9c4edc389c2dc92600e29a6ed"
+        },
+        "type": "dir",
+        "revision": 1632992319290185
+      },
+      {
+        "name": "\u041a\u043b\u0438\u043f\u044b",
+        "exif": {},
+        "created": "2020-01-12T14:21:05+00:00",
+        "resource_id": "17913919:d1f79477b98689ce4b5f139bf1516e91db1f7c0ef55e16a8cf310cb8c990a08f",
+        "modified": "2020-01-12T14:21:05+00:00",
+        "path": "disk:/\u041a\u043b\u0438\u043f\u044b",
+        "comment_ids": {
+          "private_resource": "17913919:d1f79477b98689ce4b5f139bf1516e91db1f7c0ef55e16a8cf310cb8c990a08f",
+          "public_resource": "17913919:d1f79477b98689ce4b5f139bf1516e91db1f7c0ef55e16a8cf310cb8c990a08f"
+        },
+        "type": "dir",
+        "revision": 1578838865375722
+      },
+      {
+        "name": "\u041a\u043d\u0438\u0433\u0438",
+        "exif": {},
+        "created": "2016-07-21T07:17:11+00:00",
+        "resource_id": "17913919:afc4b03bbf651e1909929e73b731339421d12724341e9e8ab85cea3bf8d52072",
+        "modified": "2016-07-21T07:17:11+00:00",
+        "path": "disk:/\u041a\u043d\u0438\u0433\u0438",
+        "comment_ids": {
+          "private_resource": "17913919:afc4b03bbf651e1909929e73b731339421d12724341e9e8ab85cea3bf8d52072",
+          "public_resource": "17913919:afc4b03bbf651e1909929e73b731339421d12724341e9e8ab85cea3bf8d52072"
+        },
+        "type": "dir",
+        "revision": 1469085431799485
+      },
+      {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430",
+        "exif": {},
+        "created": "2014-08-30T14:38:14+00:00",
+        "resource_id": "17913919:7865f7ef99ab5f405e171c203ea68946c7bf1075283bb47c02fabfb2d035c52e",
+        "modified": "2014-08-30T14:38:14+00:00",
+        "path": "disk:/\u041c\u0443\u0437\u044b\u043a\u0430",
+        "comment_ids": {
+          "private_resource": "17913919:7865f7ef99ab5f405e171c203ea68946c7bf1075283bb47c02fabfb2d035c52e",
+          "public_resource": "17913919:7865f7ef99ab5f405e171c203ea68946c7bf1075283bb47c02fabfb2d035c52e"
+        },
+        "type": "dir",
+        "revision": 1409409494776825
+      },
+      {
+        "name": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+        "exif": {},
+        "created": "2021-10-23T19:10:12+00:00",
+        "resource_id": "17913919:977a1c84803782b54daffeb13efbfaee84849295b5ace7b122468eb7fbd6efdc",
+        "modified": "2021-10-23T19:10:12+00:00",
+        "path": "disk:/\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+        "comment_ids": {
+          "private_resource": "17913919:977a1c84803782b54daffeb13efbfaee84849295b5ace7b122468eb7fbd6efdc",
+          "public_resource": "17913919:977a1c84803782b54daffeb13efbfaee84849295b5ace7b122468eb7fbd6efdc"
+        },
+        "type": "dir",
+        "revision": 1635016212618169
+      },
+      {
+        "name": "\u0444\u043e\u0442\u043e",
+        "exif": {},
+        "created": "2019-09-04T18:08:25+00:00",
+        "resource_id": "17913919:e7c8aacedf95d5abd25e078049a8557155b96a7b360902b3253a104e2e0ab8b8",
+        "modified": "2019-09-04T18:08:25+00:00",
+        "path": "disk:/\u0444\u043e\u0442\u043e",
+        "comment_ids": {
+          "private_resource": "17913919:e7c8aacedf95d5abd25e078049a8557155b96a7b360902b3253a104e2e0ab8b8",
+          "public_resource": "17913919:e7c8aacedf95d5abd25e078049a8557155b96a7b360902b3253a104e2e0ab8b8"
+        },
+        "type": "dir",
+        "revision": 1567620505437761
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2007-09-24T22:47:06+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:10ead1a8cb79fa6a583559ebcda671e99edec9527e1b6e6f1b8e6b6c250cf62d",
+          "public_resource": "17913919:10ead1a8cb79fa6a583559ebcda671e99edec9527e1b6e6f1b8e6b6c250cf62d"
+        },
+        "name": "\u0413\u043e\u0440\u044b.jpg",
+        "exif": {
+          "date_time": "2007-09-24T22:47:06+00:00"
+        },
+        "created": "2014-08-30T14:38:19+00:00",
+        "size": 2806247,
+        "resource_id": "17913919:10ead1a8cb79fa6a583559ebcda671e99edec9527e1b6e6f1b8e6b6c250cf62d",
+        "modified": "2014-08-30T14:38:19+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/1f9bf44928cb43f36abab883a20c32874fce8f996178c0311a5acada93e9a173/61756c9e/OlEUxuXwCydoTqyX92xqfeHhyxWSeF9NEMnlmWz4-n48ch9HtahHzAd_8f7w-6gCE7MB0Bofc5jvqqBxzg0X9Q%3D%3D?uid=17913919&filename=%D0%93%D0%BE%D1%80%D1%8B.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=2806247&hid=cdbe7b2421dd9a7a78125eaff90e814c&media_type=image&tknv=v2&etag=45abfcca087a15c46c9889192893e1db",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/f233175a8f8d5c1bb979d565aa6ac6f554360df2d3eae1ea81a52ec9143dd6e0/inf/UeLRtgXOoZL6LiHGwqn3Of0_w8--w82xtzhMxPkUGmBa8esJ5aSeXe-v51_CVzp6t0nV1ig0G081-C1dp9NyuQ%3D%3D?uid=17913919&filename=%D0%93%D0%BE%D1%80%D1%8B.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u0413\u043e\u0440\u044b.jpg",
+        "sha256": "66d46513100282ddae78ab22b89052b81dda2372f62aaf993e3b8fae573ea565",
+        "type": "file",
+        "md5": "45abfcca087a15c46c9889192893e1db",
+        "revision": 1409409499360216
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2008-01-05T08:08:58+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:2da0d936fbc7440fb569ef29280c70912764d85a83dd72bff979507301d4b51a",
+          "public_resource": "17913919:2da0d936fbc7440fb569ef29280c70912764d85a83dd72bff979507301d4b51a"
+        },
+        "name": "\u0417\u0438\u043c\u0430.jpg",
+        "exif": {
+          "date_time": "2008-01-05T08:08:58+00:00"
+        },
+        "created": "2014-08-30T14:38:16+00:00",
+        "size": 2031252,
+        "resource_id": "17913919:2da0d936fbc7440fb569ef29280c70912764d85a83dd72bff979507301d4b51a",
+        "modified": "2014-08-30T14:38:16+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/01ce48c3e0950e7dd3607c08265aa5cc357242c4a17a5b0e6674e6b6fad3eef5/61756c9e/dxx7uN7J-NFC3TFH3zo1cQE0D52oATHwSxrr8A9RvXrRIeV7D6lJZxHyO7KKdDN4U1O3gR4E2ZcOe4CoG-UveA%3D%3D?uid=17913919&filename=%D0%97%D0%B8%D0%BC%D0%B0.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=2031252&hid=b94926cc4feb55825679e328c2200ce0&media_type=image&tknv=v2&etag=a0665f5d05693058bb1b3fab1986a43b",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/7668cb2e357e32cfa084f2a9d48c525ecd5465c56e2547d7370db5e2a7f173e5/inf/ezlcMCrX-42-ZpKuTM78lfhX6pRun9XCX1vb3hdspBLjSY9PcQrt-ex_KxnFBDaxSuSaXvsCn_yvBylvUJvHgw%3D%3D?uid=17913919&filename=%D0%97%D0%B8%D0%BC%D0%B0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u0417\u0438\u043c\u0430.jpg",
+        "sha256": "75143f4a4ba1ba22d4337c687a08201c2eeb57fde97e21e6d092e68c0a27504f",
+        "type": "file",
+        "md5": "a0665f5d05693058bb1b3fab1986a43b",
+        "revision": 1409409496692764
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2010-08-20T09:29:24+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:93648808be6115bb5c6d7b79fc1345b4d80224349a0f38f0e279063b0645aed2",
+          "public_resource": "17913919:93648808be6115bb5c6d7b79fc1345b4d80224349a0f38f0e279063b0645aed2"
+        },
+        "name": "\u041c\u0438\u0448\u043a\u0438.jpg",
+        "exif": {
+          "date_time": "2010-08-20T09:29:24+00:00"
+        },
+        "created": "2014-08-30T14:38:18+00:00",
+        "size": 2382667,
+        "resource_id": "17913919:93648808be6115bb5c6d7b79fc1345b4d80224349a0f38f0e279063b0645aed2",
+        "modified": "2014-08-30T14:38:18+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/fe6900b10ca48587f69a3c27abc6845d2d5a86124e72c228ef90f59e4c81ab37/61756c9e/_xRqUPoGt_UsvTp6TSkHtArKqIh6400SW50EP8pyWZ5BswCCUNMMA6RtsrxbRFX9L3es1YoJWjRgfPLSOBkTpQ%3D%3D?uid=17913919&filename=%D0%9C%D0%B8%D1%88%D0%BA%D0%B8.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=2382667&hid=5548f6dfd65d7f022be22736040cf166&media_type=image&tknv=v2&etag=052850647b8792ad60dcc0e0d2758684",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/0756a082df3518726f4454c0263f2661eb0db2f862e88ecbc0ceb9d6ec1db2e3/inf/HN_AMJS7A-B7fdMNYJTw9grKqIh6400SW50EP8pyWZ4MDd39dOX9tLFx-6_8qwnkXdbFqDcJO_lo5Aj0N7KE0Q%3D%3D?uid=17913919&filename=%D0%9C%D0%B8%D1%88%D0%BA%D0%B8.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u041c\u0438\u0448\u043a\u0438.jpg",
+        "sha256": "57607bd6796726cd06a81a0473cd5f6c723f3703b2823a262fd385e6f7b866e1",
+        "type": "file",
+        "md5": "052850647b8792ad60dcc0e0d2758684",
+        "revision": 1409409498615263
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2010-11-23T07:31:34+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:192aa24b4e55ea112e3c862f4eca778da53648945c36a74fd38bd7ce6fbb9cb7",
+          "public_resource": "17913919:192aa24b4e55ea112e3c862f4eca778da53648945c36a74fd38bd7ce6fbb9cb7"
+        },
+        "name": "\u041c\u043e\u0440\u0435.jpg",
+        "exif": {
+          "date_time": "2010-11-23T07:31:34+00:00"
+        },
+        "created": "2014-08-30T14:38:18+00:00",
+        "size": 1675319,
+        "resource_id": "17913919:192aa24b4e55ea112e3c862f4eca778da53648945c36a74fd38bd7ce6fbb9cb7",
+        "modified": "2014-08-30T14:38:18+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/17026642093b19ea61f569ba2a2d1add64d613e43472dde21ac0c71c39b475be/61756c9e/lZwU89CCXtC6LmuRQV7S5NfC48PR8RizNSSP-QOhiyQuA6B6SygXpPP60ICk6bI64Fy_gZy5lDsFE0tkOilzTA%3D%3D?uid=17913919&filename=%D0%9C%D0%BE%D1%80%D0%B5.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=1675319&hid=c96791a4cc6068a22322f645c106fa1d&media_type=image&tknv=v2&etag=5695698aa4fc3ee999a68709ccdc87b5",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/c1865793a29e19f4e5ce5f57a75e2d84f74641772d5d25f005b4985e3a65b986/inf/db64js0jwlwzYL0kgikQdNfC48PR8RizNSSP-QOhiyTfMrnLd4LDAa3LUi0UUwAIpZyNhUhUt_CvGb2T9WEzHw%3D%3D?uid=17913919&filename=%D0%9C%D0%BE%D1%80%D0%B5.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u041c\u043e\u0440\u0435.jpg",
+        "sha256": "f0aef49c0f89574a69962453ab788bb48100f55e91aaf81230e28da39a50014e",
+        "type": "file",
+        "md5": "5695698aa4fc3ee999a68709ccdc87b5",
+        "revision": 1409409498242022
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2009-10-20T06:59:54+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:75d7a608a2823af3cf39fb7ad707a56a9aee4e3329a7decdfa25a625ea03f91d",
+          "public_resource": "17913919:75d7a608a2823af3cf39fb7ad707a56a9aee4e3329a7decdfa25a625ea03f91d"
+        },
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430.jpg",
+        "exif": {
+          "date_time": "2009-10-20T06:59:54+00:00"
+        },
+        "created": "2014-08-30T14:38:17+00:00",
+        "size": 2146309,
+        "resource_id": "17913919:75d7a608a2823af3cf39fb7ad707a56a9aee4e3329a7decdfa25a625ea03f91d",
+        "modified": "2014-08-30T14:38:17+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/9e1aedcce71c5aebcb40a973bef73fb50f6de25355389cd0931d7961cd9187af/61756c9e/74ELrbVglUYj_3RwqZDTGhGehQpUDyx5aI6MHocN8bQ0Mey2F3aogwnUBoWKaCtXuRKz3uCHgqC4M34rBZJBFA%3D%3D?uid=17913919&filename=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=2146309&hid=7c3d89a20ecd1c7289c348ad3c6bb67e&media_type=image&tknv=v2&etag=a6c8225a6f0702497fc3908e6db37668",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/945538115dcfb53650aba47f8b212e2a2ecb41a0692c8dce5653618627173929/inf/7NY6MaFjDcqH6TEg2QLIExGehQpUDyx5aI6MHocN8bTz9zJLYrK4Qq866s-gO8IAaZQHQQhNsqRqA_4DMwztTQ%3D%3D?uid=17913919&filename=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u041c\u043e\u0441\u043a\u0432\u0430.jpg",
+        "sha256": "a59951dd561a73a5353282749c9712f468a90bc5fbd1788ef8b15154bd2e10fe",
+        "type": "file",
+        "md5": "a6c8225a6f0702497fc3908e6db37668",
+        "revision": 1409409497120893
+      },
+      {
+        "antivirus_status": "clean",
+        "photoslice_time": "2007-06-05T16:44:18+00:00",
+        "comment_ids": {
+          "private_resource": "17913919:26088baa48e117fcf45f4942add3998ec526d84e4e5c637420505f54995c16b1",
+          "public_resource": "17913919:26088baa48e117fcf45f4942add3998ec526d84e4e5c637420505f54995c16b1"
+        },
+        "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433.jpg",
+        "exif": {
+          "date_time": "2007-06-05T16:44:18+00:00"
+        },
+        "created": "2014-08-30T14:38:17+00:00",
+        "size": 2823162,
+        "resource_id": "17913919:26088baa48e117fcf45f4942add3998ec526d84e4e5c637420505f54995c16b1",
+        "modified": "2014-08-30T14:38:17+00:00",
+        "mime_type": "image/jpeg",
+        "file": "https://downloader.disk.yandex.ru/disk/86da3e3fc2ef99dcd9c7a7995ab0790127bfac9f2034f85371151c89f9b4bc86/61756c9e/Z3alkmvzwBpLPNhzwX0uU0xms-UhFFybyx5lj3UttSmmyWOHuk_K45CqCMNM6tvQ7J7C-c7qlokRV7YLUNC8gA%3D%3D?uid=17913919&filename=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&fsize=2823162&hid=e652fb84d135801ad1161e585b72cefb&media_type=image&tknv=v2&etag=a1be3da22f24e63f0c2ba551305aeae8",
+        "media_type": "image",
+        "preview": "https://downloader.disk.yandex.ru/preview/0fca09b8e7dca4d1abc7280d089e9d7c6ec932ec1ae0365809d2937acfcdd539/inf/M8aBMZrEbrbkqSOfNAQBaThGU-HG6TM5DnCLWnDyMC2iu38RD3um88KseubqE4OFmpXns88-h-92IJ5SMd8bfg%3D%3D?uid=17913919&filename=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=17913919&tknv=v2&size=S&crop=0",
+        "path": "disk:/\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433.jpg",
+        "sha256": "944f4237d272259f8ad1111f74548d3565a33ecbeffaf47f4a1587c4ac5e2c1a",
+        "type": "file",
+        "md5": "a1be3da22f24e63f0c2ba551305aeae8",
+        "revision": 1409409497481161
+      }
+    ],
+    "limit": 20,
+    "offset": 0,
+    "path": "disk:/",
+    "total": 12
+  },
+  "name": "disk",
+  "exif": {},
+  "resource_id": "17913919:d23d8c30a7c6f0533019405b1a2f6380085c8be81b7a6613b9a6f748090e8025",
+  "created": "2012-04-04T20:00:00+00:00",
+  "modified": "2012-04-04T20:00:00+00:00",
+  "path": "disk:/",
+  "comment_ids": {},
+  "type": "dir",
+  "revision": 1409409494217183
+}
